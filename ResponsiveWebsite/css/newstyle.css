@@ -1,0 +1,105 @@
+.body_style{
+	font-size:0.75em; /* 12px/16px  */ 
+}
+.pagewrapper{
+	width:100%;
+	max-width: 100%;
+	background:none repeat scroll 0 0 #FFFFFF;
+}
+.header_style{
+	height:6.8198665%; /* 92px/1349px*/
+	font-size:0.75em;
+}
+@media (min-width: 768px){
+	
+}
+#getafun-pages1{
+	background-color: #FFFFFF;
+    margin: 0 auto;
+    padding: 0;
+    width: 940px;
+}
+#getafun-pages1 p, #getafun-pages1 span, #getafun-pages1 h1, #getafun-pages1 h2, #getafun-pages1 ol, #getafun-pages1 ul {
+	margin:0px;
+	padding:0px;
+}
+#getafun-pages1 h1{
+	font-family:'pragmatica-web', serif;
+}
+#getafun-pages1 h1, .fb-color, .sub-txt, .sub-txt strong, .get-subTitle, .get-msg, .get-greenTitle, a.moreTestimonials, .lineBox-subTitle, .subTitleTxt, .get-price, .get-priceTitle, .getafun-faq, .getafun-faq strong, .getafun-faq p, .caseTitle, .customer-name, .customer-txt p {
+	font-family:'museo-slab', serif;
+}
+#getafun-pages1 {
+	padding:0px;
+	width:153.88%/*940px/611px*/;
+	margin:0 auto;
+	background-color:#FFFFFF;
+}
+#getafun-pages1 h1 {
+	font-size:4em;	/*12px/48x*/
+	line-height:1;
+	text-align:center;
+	margin-bottom:5px;
+	color:#808080;
+}
+#getafun-pages1 .fb-color{
+	font-size:1em;/*48px/48px*/
+}
+.sub-txt, .sub-txt strong {
+	color:#5d5d5d;
+	font-size:2.167em;
+	text-align:center;
+}
+@media (max-width: 986px){
+	#getafun-pages1 h1{
+		font-size:3.1em;
+	}
+	
+	
+}
+.get-lineBox {
+	padding:2.1276% 0;/*20px/940px*/
+	border-bottom:1px solid #afafaf;
+}
+.videoClass1 {
+	float:left;
+	width:67.5531%;/*635px/940px*/
+	margin-right:2.1276%;/*20px/940px*/
+}
+.viedoPublish1 {
+	float:left;
+	border-top:1px solid #afafaf;
+	border-bottom:1px solid #afafaf;
+	width:98.2461%;/*280px/285px*/
+	padding-top:21.0714%;/*59px/280px*/
+	padding-bottom:12.5%;/*35px/280px*/
+	margin-bottom: 2.807%;/*8px/285px*/
+}
+.get-subTitle1 {
+	font-size:2em;
+	color:#646464;
+}
+.get-msg-top1,
+.get-msg-bottom1{
+	width:98.2978%;/*462px/470px*/
+}
+.get-msg-top2,
+.get-msg-bottom2{
+	width:100.21%;/*462px/461px*/
+}
+.getmsg1{
+	width:87.6595%;/*412px/470px*/
+	font-size: 1.5em;/*18px/12px*/
+	padding: 10px 5.31%;/*25px/470px*/
+}
+.get-msg2{
+	padding:11px 5.5223%;/*25px/461px*/
+	font-size: 1.5em;
+    width: 89.37%;/*412px/461px*/
+}
+.moreexample{
+	font-size:2.16667em;/*26px/12px*/
+	margin-bottom: 1.06383%;/*10px/940px*/
+	margin-top: 0.5319%;/*5px/940px*/
+	padding-right: 3.29%;/*30px/910px*/
+}
