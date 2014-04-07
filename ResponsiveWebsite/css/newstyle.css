@@ -10,9 +10,6 @@
 	height:6.8198665%; /* 92px/1349px*/
 	font-size:0.75em;
 }
-@media (min-width: 768px){
-	
-}
 #getafun-pages1{
 	background-color: #FFFFFF;
     margin: 0 auto;
@@ -54,8 +51,18 @@
 	#getafun-pages1 h1{
 		font-size:3.1em;
 	}
-	
-	
+	div .videoClass1{
+		width:93.553%;
+	}
+	.sidebar{
+		margin-left: 33.108%;
+	}
+	.lineBox-subTitle, .get-priceTitle{
+		font-size: 2.00067em;
+	}
+	.marketer-icon{
+		 margin: 33px auto;
+	}
 }
 .get-lineBox {
 	padding:2.1276% 0;/*20px/940px*/
@@ -65,6 +72,10 @@
 	float:left;
 	width:67.5531%;/*635px/940px*/
 	margin-right:2.1276%;/*20px/940px*/
+}
+.sidebar{
+	float:left; 
+	width: 30.3191%;/*285px/940px*/
 }
 .viedoPublish1 {
 	float:left;
@@ -97,9 +108,26 @@
 	font-size: 1.5em;
     width: 89.37%;/*412px/461px*/
 }
-.moreexample{
+a.moretestimony{
 	font-size:2.16667em;/*26px/12px*/
 	margin-bottom: 1.06383%;/*10px/940px*/
 	margin-top: 0.5319%;/*5px/940px*/
 	padding-right: 3.29%;/*30px/910px*/
+}
+.get-list li {
+    font-size: 1.5em;
+    padding-left: 3.191%;
+}
+.lineBox-subTitle,
+.get-priceTitle{
+	font-size:2.16667em;/*26px/12px*/
+}
+.subTitleTxt{
+	font-size: 1.5em;/*18px/12px*/
+}
+/*.lifetime-icon{
+	width: 85.07%/*171px/201px*/
+/*}*/
+.entry-content td, .comment-content td{
+	padding: 6px 3.676% 6px 0; /*10px/272px*/
 }
